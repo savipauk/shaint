@@ -1,0 +1,4 @@
+/home/erik/design-patterns/shaint/build/CMakeFiles/ImGui.dir
+/home/erik/design-patterns/shaint/build/CMakeFiles/shaint.dir
+/home/erik/design-patterns/shaint/build/CMakeFiles/edit_cache.dir
+/home/erik/design-patterns/shaint/build/CMakeFiles/rebuild_cache.dir

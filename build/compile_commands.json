@@ -1,0 +1,80 @@
+[
+{
+  "directory": "/home/erik/design-patterns/shaint/build",
+  "command": "/usr/bin/c++  -I/home/erik/design-patterns/shaint/third_party/imgui -I/home/erik/design-patterns/shaint/third_party/imgui/backends -I/home/erik/design-patterns/shaint/third_party/imgui/misc/cpp -isystem /usr/include/SDL2 -std=gnu++17 -o CMakeFiles/ImGui.dir/third_party/imgui/imgui.cpp.o -c /home/erik/design-patterns/shaint/third_party/imgui/imgui.cpp",
+  "file": "/home/erik/design-patterns/shaint/third_party/imgui/imgui.cpp",
+  "output": "CMakeFiles/ImGui.dir/third_party/imgui/imgui.cpp.o"
+},
+{
+  "directory": "/home/erik/design-patterns/shaint/build",
+  "command": "/usr/bin/c++  -I/home/erik/design-patterns/shaint/third_party/imgui -I/home/erik/design-patterns/shaint/third_party/imgui/backends -I/home/erik/design-patterns/shaint/third_party/imgui/misc/cpp -isystem /usr/include/SDL2 -std=gnu++17 -o CMakeFiles/ImGui.dir/third_party/imgui/imgui_demo.cpp.o -c /home/erik/design-patterns/shaint/third_party/imgui/imgui_demo.cpp",
+  "file": "/home/erik/design-patterns/shaint/third_party/imgui/imgui_demo.cpp",
+  "output": "CMakeFiles/ImGui.dir/third_party/imgui/imgui_demo.cpp.o"
+},
+{
+  "directory": "/home/erik/design-patterns/shaint/build",
+  "command": "/usr/bin/c++  -I/home/erik/design-patterns/shaint/third_party/imgui -I/home/erik/design-patterns/shaint/third_party/imgui/backends -I/home/erik/design-patterns/shaint/third_party/imgui/misc/cpp -isystem /usr/include/SDL2 -std=gnu++17 -o CMakeFiles/ImGui.dir/third_party/imgui/imgui_draw.cpp.o -c /home/erik/design-patterns/shaint/third_party/imgui/imgui_draw.cpp",
+  "file": "/home/erik/design-patterns/shaint/third_party/imgui/imgui_draw.cpp",
+  "output": "CMakeFiles/ImGui.dir/third_party/imgui/imgui_draw.cpp.o"
+},
+{
+  "directory": "/home/erik/design-patterns/shaint/build",
+  "command": "/usr/bin/c++  -I/home/erik/design-patterns/shaint/third_party/imgui -I/home/erik/design-patterns/shaint/third_party/imgui/backends -I/home/erik/design-patterns/shaint/third_party/imgui/misc/cpp -isystem /usr/include/SDL2 -std=gnu++17 -o CMakeFiles/ImGui.dir/third_party/imgui/imgui_tables.cpp.o -c /home/erik/design-patterns/shaint/third_party/imgui/imgui_tables.cpp",
+  "file": "/home/erik/design-patterns/shaint/third_party/imgui/imgui_tables.cpp",
+  "output": "CMakeFiles/ImGui.dir/third_party/imgui/imgui_tables.cpp.o"
+},
+{
+  "directory": "/home/erik/design-patterns/shaint/build",
+  "command": "/usr/bin/c++  -I/home/erik/design-patterns/shaint/third_party/imgui -I/home/erik/design-patterns/shaint/third_party/imgui/backends -I/home/erik/design-patterns/shaint/third_party/imgui/misc/cpp -isystem /usr/include/SDL2 -std=gnu++17 -o CMakeFiles/ImGui.dir/third_party/imgui/imgui_widgets.cpp.o -c /home/erik/design-patterns/shaint/third_party/imgui/imgui_widgets.cpp",
+  "file": "/home/erik/design-patterns/shaint/third_party/imgui/imgui_widgets.cpp",
+  "output": "CMakeFiles/ImGui.dir/third_party/imgui/imgui_widgets.cpp.o"
+},
+{
+  "directory": "/home/erik/design-patterns/shaint/build",
+  "command": "/usr/bin/c++  -I/home/erik/design-patterns/shaint/third_party/imgui -I/home/erik/design-patterns/shaint/third_party/imgui/backends -I/home/erik/design-patterns/shaint/third_party/imgui/misc/cpp -isystem /usr/include/SDL2 -std=gnu++17 -o CMakeFiles/ImGui.dir/third_party/imgui/backends/imgui_impl_sdl2.cpp.o -c /home/erik/design-patterns/shaint/third_party/imgui/backends/imgui_impl_sdl2.cpp",
+  "file": "/home/erik/design-patterns/shaint/third_party/imgui/backends/imgui_impl_sdl2.cpp",
+  "output": "CMakeFiles/ImGui.dir/third_party/imgui/backends/imgui_impl_sdl2.cpp.o"
+},
+{
+  "directory": "/home/erik/design-patterns/shaint/build",
+  "command": "/usr/bin/c++  -I/home/erik/design-patterns/shaint/third_party/imgui -I/home/erik/design-patterns/shaint/third_party/imgui/backends -I/home/erik/design-patterns/shaint/third_party/imgui/misc/cpp -isystem /usr/include/SDL2 -std=gnu++17 -o CMakeFiles/ImGui.dir/third_party/imgui/backends/imgui_impl_opengl3.cpp.o -c /home/erik/design-patterns/shaint/third_party/imgui/backends/imgui_impl_opengl3.cpp",
+  "file": "/home/erik/design-patterns/shaint/third_party/imgui/backends/imgui_impl_opengl3.cpp",
+  "output": "CMakeFiles/ImGui.dir/third_party/imgui/backends/imgui_impl_opengl3.cpp.o"
+},
+{
+  "directory": "/home/erik/design-patterns/shaint/build",
+  "command": "/usr/bin/c++  -I/home/erik/design-patterns/shaint/third_party/imgui -I/home/erik/design-patterns/shaint/third_party/imgui/backends -I/home/erik/design-patterns/shaint/third_party/imgui/misc/cpp -isystem /usr/include/SDL2 -std=gnu++17 -o CMakeFiles/ImGui.dir/third_party/imgui/misc/cpp/imgui_stdlib.cpp.o -c /home/erik/design-patterns/shaint/third_party/imgui/misc/cpp/imgui_stdlib.cpp",
+  "file": "/home/erik/design-patterns/shaint/third_party/imgui/misc/cpp/imgui_stdlib.cpp",
+  "output": "CMakeFiles/ImGui.dir/third_party/imgui/misc/cpp/imgui_stdlib.cpp.o"
+},
+{
+  "directory": "/home/erik/design-patterns/shaint/build",
+  "command": "/usr/bin/c++  -I/home/erik/design-patterns/shaint/third_party/imgui -I/home/erik/design-patterns/shaint/third_party/imgui/backends -I/home/erik/design-patterns/shaint/third_party/imgui/misc/cpp -isystem /usr/include/SDL2 -std=gnu++17 -o CMakeFiles/shaint.dir/src/abstract_graphical_object.cc.o -c /home/erik/design-patterns/shaint/src/abstract_graphical_object.cc",
+  "file": "/home/erik/design-patterns/shaint/src/abstract_graphical_object.cc",
+  "output": "CMakeFiles/shaint.dir/src/abstract_graphical_object.cc.o"
+},
+{
+  "directory": "/home/erik/design-patterns/shaint/build",
+  "command": "/usr/bin/c++  -I/home/erik/design-patterns/shaint/third_party/imgui -I/home/erik/design-patterns/shaint/third_party/imgui/backends -I/home/erik/design-patterns/shaint/third_party/imgui/misc/cpp -isystem /usr/include/SDL2 -std=gnu++17 -o CMakeFiles/shaint.dir/src/engine.cc.o -c /home/erik/design-patterns/shaint/src/engine.cc",
+  "file": "/home/erik/design-patterns/shaint/src/engine.cc",
+  "output": "CMakeFiles/shaint.dir/src/engine.cc.o"
+},
+{
+  "directory": "/home/erik/design-patterns/shaint/build",
+  "command": "/usr/bin/c++  -I/home/erik/design-patterns/shaint/third_party/imgui -I/home/erik/design-patterns/shaint/third_party/imgui/backends -I/home/erik/design-patterns/shaint/third_party/imgui/misc/cpp -isystem /usr/include/SDL2 -std=gnu++17 -o CMakeFiles/shaint.dir/src/main.cc.o -c /home/erik/design-patterns/shaint/src/main.cc",
+  "file": "/home/erik/design-patterns/shaint/src/main.cc",
+  "output": "CMakeFiles/shaint.dir/src/main.cc.o"
+},
+{
+  "directory": "/home/erik/design-patterns/shaint/build",
+  "command": "/usr/bin/c++  -I/home/erik/design-patterns/shaint/third_party/imgui -I/home/erik/design-patterns/shaint/third_party/imgui/backends -I/home/erik/design-patterns/shaint/third_party/imgui/misc/cpp -isystem /usr/include/SDL2 -std=gnu++17 -o CMakeFiles/shaint.dir/src/point.cc.o -c /home/erik/design-patterns/shaint/src/point.cc",
+  "file": "/home/erik/design-patterns/shaint/src/point.cc",
+  "output": "CMakeFiles/shaint.dir/src/point.cc.o"
+},
+{
+  "directory": "/home/erik/design-patterns/shaint/build",
+  "command": "/usr/bin/c++  -I/home/erik/design-patterns/shaint/third_party/imgui -I/home/erik/design-patterns/shaint/third_party/imgui/backends -I/home/erik/design-patterns/shaint/third_party/imgui/misc/cpp -isystem /usr/include/SDL2 -std=gnu++17 -o CMakeFiles/shaint.dir/src/rectangle.cc.o -c /home/erik/design-patterns/shaint/src/rectangle.cc",
+  "file": "/home/erik/design-patterns/shaint/src/rectangle.cc",
+  "output": "CMakeFiles/shaint.dir/src/rectangle.cc.o"
+}
+]
